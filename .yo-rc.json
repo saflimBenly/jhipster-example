@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster",
+    "packageName": "com.truvinelogic",
+    "packageFolder": "com/truvinelogic",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "c04b9db8fe76f6f951507908a6167303eb8e2e50",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
